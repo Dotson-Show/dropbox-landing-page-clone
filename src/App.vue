@@ -2,18 +2,21 @@
   <div>
     <NavBar />
     <Header />
+    <SectionOne />
   </div>
 </template>
 
 <script>
 import NavBar from './components/NavBar';
 import Header from './components/Header';
+import SectionOne from './components/SectionOne';
 
 export default {
   name: 'App',
   components: {
     NavBar,
     Header,
+    SectionOne,
   }
 }
 </script>

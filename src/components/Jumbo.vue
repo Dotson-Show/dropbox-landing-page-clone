@@ -15,7 +15,7 @@
 
 <style scoped>
 .jumbo {
-     padding: 0px 75px ;
+     padding: 0px 100px ;
      color: white;
      background-color: transparent;
 }

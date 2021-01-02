@@ -17,7 +17,7 @@ import Jumbo from './Jumbo'
 <style scoped>
 .header {
   width: 100%;
-  min-height: 680px;
+  min-height: 700px;
   background-color: rgba(13, 47, 129, 1);
   padding-top: 120px;
 }
